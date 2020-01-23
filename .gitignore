@@ -35,7 +35,7 @@ nosetests.xml
 *.mo
 
 # upload files
-app/static/uploads
+application/static/uploads
 
 # SQLite databases
 *.sqlite
